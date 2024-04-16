@@ -1,3 +1,6 @@
 pandas
 numpy
+Flask
+scikit-learn
+xgboost
 -e .

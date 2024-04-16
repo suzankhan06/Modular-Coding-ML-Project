@@ -1,0 +1,16 @@
+constant file->configuration file-> data ingestion
+
+
+
+# data transformation
+
+update constant file -> configuration file -> data transformation -. if required utils file -> data transformation
+
+
+#model training:
+1. Define variable in constant folder
+2. We connect all project file in configuration folder
+3. we code for model in Model Training folder
+4. we define helper function in utils file(if required)
+
+
